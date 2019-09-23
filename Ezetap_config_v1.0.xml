@@ -226,9 +226,9 @@
                                         <!-- Dynamic Data Authentication Data Object List (DDOL) -->
                                         <entry key="&lt;9F49&gt;" value="9F3704" />
                                         <!-- Terminal Country Code -->
-                                        <entry key="&lt;9F1A&gt;" value="0840" />
+                                        <entry key="&lt;9F1A&gt;" value="0356" />
                                         <!-- Transaction Currency Code -->
-                                        <entry key="&lt;5F2A&gt;" value="0840" />
+                                        <entry key="&lt;5F2A&gt;" value="0356" />
                                         <!-- Transaction Currency Exponent -->
                                         <entry key="&lt;5F36&gt;" value="02" />
                                         <!-- Advice supported -->
@@ -731,9 +731,9 @@
                                 <node name="Terminal Configuration">
                                     <map>
                                         <entry key="&lt;9F1B&gt;" value="00000000" />
-                                        <entry key="&lt;5F2A&gt;" value="0840" />
+                                        <entry key="&lt;5F2A&gt;" value="0356" />
                                         <entry key="&lt;5F36&gt;" value="02" />
-                                        <entry key="&lt;9F1A&gt;" value="0840" />
+                                        <entry key="&lt;9F1A&gt;" value="0356" />
                                         <!-- Terminal Capabilities -->
                                         <entry key="&lt;9F33&gt;" value="E0F0C8" />
                                         <!-- Additional Terminal Capabilities -->
