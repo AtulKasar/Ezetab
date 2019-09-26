@@ -461,15 +461,15 @@
                                             <entry key="&lt;DFE4&gt;" value="0000C350" />
                                             <!-- Data Record Tags (EMV) approval  -->
                                             <entry key="&lt;CFFFFF00&gt;"
-                                                value="5F309F6C9F069F029F039F265F2482505A5F349F129F369F099F279F34849F1E9F109F119F339F1A9F3595579F535F2A9A9C9F379F7C9F6E9F669F39DF028F" />
+                                                value="9F415F309F6C9F069F029F039F265F2482505A5F349F129F369F099F279F34849F1E9F109F119F339F1A9F3595579F535F2A9A9C9F379F7C9F6E9F669F39DF028F" />
                                             <!-- Data Record Tags (EMV) decline -->
                                             <entry key="&lt;CFFFFF50&gt;"
-                                                value="9F029F039F26829F365F349F7C9F6E9F109F1A95575F2A9A9C9F375F349F669F39DF029F339F275F245A848F" />
+                                                value="9F419F029F039F26829F365F349F7C9F6E9F109F1A95575F2A9A9C9F375F349F669F39DF029F339F275F245A848F" />
                                             <!-- Data Record Tags (MSD / Magstripe / Non-EMV) -->
                                             <entry key="&lt;CFFFFF01&gt;:01"
                                                 value="5F309F029C9F39DF028F" />
                                             <entry key="&lt;CFFFFF01&gt;"
-                                                value="5F309F029F265F349F369F7C9F6E9F109F66579F379C9F39DF028F" />
+                                                value="9F415F309F029F265F349F369F7C9F6E9F109F66579F379C9F39DF028F" />
                                         </map>
                                     </node>
                                     <node name="APP2">
@@ -488,7 +488,7 @@
                                             <entry key="&lt;DFE4&gt;" value="0000C350" />
                                             <!-- Data Record Tags (EMV) approval  -->
                                             <entry key="&lt;CFFFFF00&gt;"
-                                                value="5F309F6C9F069F029F039F265F2482505A5F349F129F369F099F279F34849F1E9F109F119F339F1A9F3595579F535F2A9A9C9F379F7C9F6E9F669F39DF028F" />
+                                                value="9F415F309F6C9F069F029F039F265F2482505A5F349F129F369F099F279F34849F1E9F109F119F339F1A9F3595579F535F2A9A9C9F379F7C9F6E9F669F39DF028F" />
                                             <!-- Data Record Tags (EMV) decline -->
                                             <entry key="&lt;CFFFFF50&gt;"
                                                 value="9F029F039F26829F365F349F7C9F6E9F109F1A95575F2A9A9C9F375F349F669F39DF029F339F275F245A848F" />
@@ -496,7 +496,7 @@
                                             <entry key="&lt;CFFFFF01&gt;:01"
                                                 value="5F309F029C9F39DF02" />
                                             <entry key="&lt;CFFFFF01&gt;"
-                                                value="5F309F029F265F349F369F7C9F6E9F109F66579F379C9F39DF02" />
+                                                value="9F415F309F029F265F349F369F7C9F6E9F109F66579F379C9F39DF02" />
                                         </map>
                                     </node>
                                     <node name="APP3">
