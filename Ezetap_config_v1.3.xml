@@ -250,7 +250,7 @@
                                          <!-- MSD Track Data Format-->
                                         <entry key="&lt;DFDB&gt;" value="00" />
                                          <!-- Data Format for Data Encryption-->
-                                        <entry key="&lt;1F8129&gt;" value="00" />
+                                        <entry key="&lt;1F8129&gt;" value="05" />
                                         <!-- Track Data Format 2-->
                                         <entry key="&lt;1F8133&gt;" value="01" />
                                             <!-- Data Record Tags (EMV approval) -->
@@ -747,7 +747,7 @@
                                         <!-- Message hold time -->
                                         <entry key="&lt;DF812D&gt;" value="000013" />
                                         <entry key="&lt;DFDB&gt;" value="00" />
-                                        <entry key="&lt;1F8129&gt;" value="00" />
+                                        <entry key="&lt;1F8129&gt;" value="05" />
                                         <entry key="&lt;1F8133&gt;" value="01" />
                                         <!-- Continue Transaction on Missing PIN Key and set “PIN Entry Required and PIN Pad Not Present or PIN Pad Not Working” in TVR -->
                                         <entry key="&lt;1F8220&gt;" value="02" />
@@ -764,7 +764,7 @@
                                         <entry key="&lt;1F8131&gt;" value="_ezetap_V1.3" />
                                         <!-- Remove Sentinels and LRC -->
                                         <entry key="&lt;DFDB&gt;" value="00" />
-                                        <entry key="&lt;1F8129&gt;" value="00" />
+                                        <entry key="&lt;1F8129&gt;" value="05" />
                                         <entry key="&lt;1F8133&gt;" value="01" />
                                         <!-- Continue Transaction on Missing PIN Key and set “PIN Entry Required and PIN Pad Not Present or PIN Pad Not Working” in TVR -->
                                         <entry key="&lt;1F8220&gt;" value="02" />
